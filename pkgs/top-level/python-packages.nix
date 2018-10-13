@@ -588,6 +588,8 @@ in {
 
   pyxml = disabledIf isPy3k (callPackage ../development/python-modules/pyxml{ });
 
+  py-solc-simple = callPackage ../development/python-modules/py-solc-simple { };
+
   py-solc = callPackage ../development/python-modules/py-solc { };
 
   relatorio = callPackage ../development/python-modules/relatorio { };
