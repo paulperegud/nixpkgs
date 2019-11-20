@@ -4725,6 +4725,11 @@
     githubId = 116740;
     name = "Paweł Pacana";
   };
+  paulperegud = {
+    email = "paulperegud@protonmail.com";
+    github = "paulperegud";
+    name = "Paul Peregud";
+  };
   pbogdan = {
     email = "ppbogdan@gmail.com";
     github = "pbogdan";

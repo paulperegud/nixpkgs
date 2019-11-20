@@ -790,6 +790,8 @@ in
 
   sedutil = callPackage ../tools/security/sedutil { };
 
+  elodie = callPackage ../tools/graphics/elodie { };
+
   elvish = callPackage ../shells/elvish { };
 
   encryptr = callPackage ../tools/security/encryptr {
