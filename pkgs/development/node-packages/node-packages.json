@@ -2,6 +2,7 @@
   "@angular/cli"
 , "@antora/cli"
 , "@antora/site-generator-default"
+, "@argdown/cli"
 , "@bitwarden/cli"
 , "@nestjs/cli"
 , "@vue/cli"
